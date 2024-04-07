@@ -3,7 +3,7 @@
 <h1>Project Team AI200 course by Heicoders Dec 2020: Human or Robot?</h1>
 
 Datasources found in /data , there are 4 points of data:-
-1) bids
+1) bids (file is too huge to upload, but it contains the main data we used) 
 2) sample-submission
 3) test
 4) train
